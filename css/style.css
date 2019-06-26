@@ -1,16 +1,17 @@
 html {
     background-color: moccasin;
-    margin-top: 5px;
-    padding-top: 5px;
+    
 }
 
 h1{
     color: red;
+    margin-bottom: 40px;
 }
-p1{
+p.chocolate{
     color: chocolate;
+    margin-bottom: 40px;
 }
 
-p2 {
+p.darkblue {
     color: darkblue;
 }
